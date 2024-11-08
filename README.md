@@ -4,7 +4,7 @@
 
 🌱  I'm currently an undergraduate student studying Information Systems at Universidade Vila Velha.
 
-📗 Throughout my studies, I've been focused on developing my skills in a range of areas, including SQL, Python, Logic, Java and Web Development.
+📗 Throughout my studies, I've been focused on developing my skills in a range of areas, including .NET, Typescript, Angular and test automation.
 
 ⭐ I'm particularly interested in exploring areas like data analysis and software development, and I'm excited to see where my studies and experiences will take me in the years to come.
 
